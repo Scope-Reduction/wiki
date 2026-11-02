@@ -5,7 +5,7 @@ tags:
 ---
 Informacje dotyczące utrzymania Wiki, w tym zadań do wykonania.
 
-test
+test2
 
 ```tasks
 NOT DONE
