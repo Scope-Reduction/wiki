@@ -5,3 +5,4 @@ permalink: /
 Witaj w Scope Reduction Wiki™ gdzie znajdują się wszystkie ważne informacje dotyczące naszej gry.
 
 [[Pomysły na grę]]
+[[Korzystanie z Wiki]]
