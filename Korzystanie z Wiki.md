@@ -1,3 +1,5 @@
+Zachęcam do sugerowania/wprowadzania zmian. Postaram się utrzymywać Wiki na bieżąco z tym co robimy, jednak jestem tylko jedną osobą i mogę się czasem pomylić - jak coś zauważysz od razu pisz do mnie (@lu.ka)
+
 Jeśli chcesz coś zmienić, a nie czujesz się pewnie w GitHubie - napisz do @lu.ka na discordzie co chcesz zmienić - zmienię to za ciebie.
 
 Jeśli rozumiesz ten paragraf to możesz zrobić tak: tworzysz nowy branch, zmieniasz rzeczy, robisz pr, wysyłasz link do pr @lu.ka na discordzie. Uwaga: jeśli chcesz dodać coś do sidebaru, zobacz jak to jest zrobione, np. w [[Spotkania]] i [[Spotkanie ogólne 01.11.2026]]. Chodzi o properties `nav_order` i `parent`. W razie pytań pisz do @lu.ka.
