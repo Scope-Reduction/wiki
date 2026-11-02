@@ -1,4 +1,5 @@
 ---
+parent: Pomysły na grę
 tags:
   - atomic
 ---

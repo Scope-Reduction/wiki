@@ -1,0 +1,24 @@
+title: Scope Reduction Wiki
+description: Wszystkie ważne informacje dotyczące naszej gry
+lang: pl
+
+theme: just-the-docs
+search_enabled: true
+color_scheme: light   # or: dark
+
+aux_links:
+  GitHub: https://github.com/Scope-Reduction/wiki
+aux_links_new_tab: true
+
+# Pages are named after their file (like in Obsidian), so `parent:` uses the file name.
+# Files that should not be part of the site:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+
+# Keep single line breaks like Obsidian does
+kramdown:
+  input: GFM
+  hard_wrap: true
