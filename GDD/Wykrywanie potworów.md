@@ -1,5 +1,5 @@
 ---
-parent: "[[GDD]]"
+parent: GDD
 ---
 # Propozycja mechaniki wykrywania potworów
 Założenia:
