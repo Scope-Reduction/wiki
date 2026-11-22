@@ -6,3 +6,4 @@ Witaj w Scope Reduction Wiki™ gdzie znajdują się wszystkie ważne informacje
 
 [[Pomysły na grę]]
 [[Korzystanie z Wiki]]
+[[Proces prototypowania]]
