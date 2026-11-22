@@ -1,4 +1,6 @@
 ---
+parent: Pomysł na grę - FNAFtobus by nightfall and złol jaskiniowy
+grand_parent: Pomysły na grę
 tags:
   - atomic
 ---
